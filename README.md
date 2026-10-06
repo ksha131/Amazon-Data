@@ -50,7 +50,7 @@ Premium products generated the highest revenue.
 Budget products had the highest number of orders and quantity sold.
 April recorded the highest monthly sales.
 Study Table was the top product by sales.
-2023 recorded slightly higher sales than 2024.
+2023 recorded slightly higher sales than 2024. 
 The dataset contains 67 products across 10 categories.
 🛠️ Tools Used
 Microsoft Excel
